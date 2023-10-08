@@ -33,6 +33,7 @@ From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
 
 
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+
 ### Developed by : ABRIN NISHA A
 ### RegisterNumber : 212222230005  
 
@@ -91,13 +92,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Accuracy :
 
+![AA8](https://github.com/Abrinnisha6/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118889454/67498615-9655-4cf9-81b5-0bcb9ff0ca57)
+
+
+### Prediction :
+
 ![AA7](https://github.com/Abrinnisha6/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118889454/b9846165-9a1c-45ff-8b85-7c99a541a386)
+ 
 
-
-
-
-
-
-
-## Result:
+## Result :
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
